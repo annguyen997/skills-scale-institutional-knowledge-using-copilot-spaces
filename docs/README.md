@@ -64,3 +64,4 @@ To propose additions, corrections, or new process documents:
    - **Acceptance criteria** — check the boxes that apply (aligns with existing docs, improves clarity, stakeholder-reviewed if needed).
 4. A maintainer will review the issue and open a pull request (or ask you to do so).
 5. **When docs are added, renamed, or removed**, update the [Process Documentation Index](#process-documentation-index) table in this file to keep it current.
+6. **For major process changes**, consider updating the [Overview](#overview-of-octoacme-project-management-processes) section above to reflect the updated practices.
